@@ -11,6 +11,7 @@ Some experience with any smalltalk will help alot. [Pharo syntax card](https://f
 ## QOL Stuff
 - [Quick guide to Helios(IDE)](https://gist.github.com/mmontone/7f953ec0008dddee3a98a1056e089156)
 - [Dark mode in Helios](https://groups.google.com/g/amber-lang/c/LHOmrCzYLgY)
+    - Doesnt work for me, its a hit or miss. I use [Dark Reader](https://darkreader.org/)
 
 ## Common Pitfalls
 - I keep losing my code on amber restart
