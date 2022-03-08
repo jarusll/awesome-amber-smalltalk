@@ -3,6 +3,8 @@ I will contain everything to make your journey with amber-smalltalk as easy as p
 
 Some experience with any smalltalk will help alot. [Pharo syntax card](https://files.pharo.org/media/pharoCheatSheet.pdf) should help you get started from scratch along with Starter kit repo
 
+## Community Chat
+- [RocketChat](https://chat.amber-lang.net)
 
 ## Setup Env
 - [Starter kit](https://github.com/jarusll/amber-smalltalk-starter-kit)
